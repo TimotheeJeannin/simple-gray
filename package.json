@@ -1,0 +1,21 @@
+{
+  "name": "simple-gray",
+  "displayName": "Simple Gray",
+  "description": "Embrace simplicity and elegance with the Simple Gray theme for Visual Studio Code. This theme features a clean, minimalistic design with shades of gray that provide a distraction-free coding environment. Perfect for developers who prefer a sleek and modern look, Simple Gray enhances readability and reduces eye strain during long coding sessions. Enjoy a seamless and focused coding experience with this beautifully crafted theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Simple Gray Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Simple Gray Theme-color-theme.json"
+      }
+    ]
+  }
+}
